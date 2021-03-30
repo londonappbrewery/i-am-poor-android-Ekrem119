@@ -17,6 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_alignWithParentIfMissing="false"
         android:layout_centerHorizontal="true"
+        android:fontFamily="monospace"
         android:text="@string/title"
         android:textColor="@android:color/black"
         android:textSize="40sp" />
